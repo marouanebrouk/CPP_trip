@@ -47,10 +47,8 @@ namespace marouane{
 
 int main() {
     //  marouane::age = 100;
-    int age;
-    // std::string test;
-    // std::getline(std::cin, test);
-    std::getline(std::cin);
+    std::cout << "added";
+    std::string name = "maourne";
+    std::getline(std::cin,name);
     // std::cout << test +"a" << "\n";
-    std::cout << age<< "\n";
 }

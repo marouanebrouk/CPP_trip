@@ -5,7 +5,7 @@
 
 class PhoneBook{
     Contact[8];
-}
+};
 
 
 #endif

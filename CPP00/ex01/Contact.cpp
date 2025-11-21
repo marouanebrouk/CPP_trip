@@ -6,7 +6,6 @@
 void Contact::add_contact(void)
 {
     std::cout << "ENTER a New Contact" << "\n";
-    std::getline(cin,);
 }
 
 
